@@ -1,0 +1,23 @@
+{
+  "name": "wifi-db",
+  "version": "1.0.1",
+  "description": "csv to a db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoutepopcorn/wifi-db.git"
+  },
+  "keywords": [
+    "wifi",
+    "db"
+  ],
+  "author": "Johan Hoeksma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoutepopcorn/wifi-db/issues"
+  },
+  "homepage": "https://github.com/zoutepopcorn/wifi-db#readme"
+}
